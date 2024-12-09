@@ -1,5 +1,11 @@
 # Dr Marno van der Maas
 
+![Game 6 of the 2021 World Chess Championship](lichess-world-chess-championship-2021-game-6.gif)
+
+This is my favorite chess game that was pivotal for Magnus Carlsen to beat Ian Nepomniachtchi in the 2021 World Chess Championship.
+
+## About me
+
 If you're passionate about hardware security and verification, please reach out! You can find out more about me on my [personal website](https://techroose.com/about.html).
 
 Here's a few projects I would like to shout out:
